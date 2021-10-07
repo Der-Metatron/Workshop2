@@ -21,4 +21,8 @@ text-align: center;}
 
 a {color: chocolate; font-family: 'Akronim', cursive;font-size: 1rem;}
 
-footer {text-align: center;}
+.bildunten {display: flex;flex-wrap: wrap;justify-content: center;align-items: center;}
+
+footer {text-align: center;margin-bottom: auto;
+    display: flex;flex-wrap: wrap;justify-content: center;
+    align-items: center;}
