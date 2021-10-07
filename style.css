@@ -1,7 +1,7 @@
 
 body { background-color: black;}
 
-img {width: 300px;height: 200px; border: 2px solid chocolate;
+img {width: 300px;height: 200px; border: 2px solid chocolate;border-radius: 1rem;
     margin: 5px;}
 
 div{
@@ -11,6 +11,10 @@ div{
 }
 h1 {color: whitesmoke;text-align: center;font-family: 'Akronim', cursive;}
 header {text-align: center;}
+
+.text {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;
+color: whitesmoke;}
+
 
 
 footer {text-align: center;}
