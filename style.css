@@ -9,12 +9,16 @@ div{
     align-items: center;
 
 }
-h1 {color: whitesmoke;text-align: center;font-family: 'Akronim', cursive;}
-header {text-align: center;}
+h1 {color: chocolate;text-align: center;font-family: 'Akronim', cursive;font-size: 2rem;}
 
-.text {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;
-color: whitesmoke;}
+h2 {color: chocolate;text-align: center;font-family: 'Akronim', cursive;}
 
+header {text-align: center;color: chocolate;text-shadow: rgb(218, 41, 17);}
 
+p {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;
+color: whitesmoke;
+text-align: center;}
+
+a {color: chocolate; font-family: 'Akronim', cursive;font-size: 1rem;}
 
 footer {text-align: center;}
