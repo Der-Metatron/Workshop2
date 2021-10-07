@@ -1,0 +1,15 @@
+
+body {font-family: "Raleway", Arial, sans-serif;background-color: black;}
+
+img {width: 300px;height: 200px; border: 2px solid chocolate;
+    margin: 5px;}
+
+div{
+    display: flex;flex-wrap: wrap;justify-content: center;
+    align-items: stretch;
+
+}
+
+nav {text-align: center;}
+
+footer {text-align: center;}
